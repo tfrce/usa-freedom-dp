@@ -4,7 +4,22 @@
    Author's custom styles
    ========================================================================== */
 
-
+body {
+  font-family: 'Lato', sans-serif;
+  overflow-y: scroll;
+   background-color:#fff;
+   font-size: 19px;
+   line-height: 32px;
+}
+.container {
+  width: 960px;
+}
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 20px;
+}
 
 
 
