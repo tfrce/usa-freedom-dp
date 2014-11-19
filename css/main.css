@@ -21,7 +21,14 @@ h1,h2,h3,h4,h5,h6 {
   margin-bottom: 20px;
 }
 
-
+p {
+  margin: 20px;
+}
+body #tf-call-widget-container h5 {
+  color: #333 !important;
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+}
 
 
 
